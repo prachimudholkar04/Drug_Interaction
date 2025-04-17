@@ -1,0 +1,21 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+.venv/
+env/
+venv/
+
+# Env config
+.env
+*.env
+
+# OS junk
+.DS_Store
+
+# Model caches
+*.pt
+*.onnx
+*.h5
