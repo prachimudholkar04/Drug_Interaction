@@ -1,0 +1,21 @@
+# Core dependencies
+fastapi
+uvicorn[standard]
+streamlit
+
+# NLP and ML
+transformers
+torch
+
+# HTTP requests
+httpx
+requests
+
+# Environment variable management
+python-dotenv
+
+# Pydantic (comes with FastAPI, but listed for clarity)
+pydantic
+
+# Optional for local dev (auto-reload, interactive docs)
+watchgod
